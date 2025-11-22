@@ -5,7 +5,8 @@ This contains simple Java programs to practice fundamental concepts.
 ## Files
 - [Print.java](./Print.java) – Demonstrates printing with `System.out.print`, `System.out.println` and use of `\n`.
 - [Variables.java](./Variables.java) – Shows how to declare and use primitive types (`int`, `double`, `char`, `boolean`) and `String`.
-- [UserInput.java](UserInput.java) - User input with `Scanner` that handles different types of variables (refer from the previous java file) and calculating the area of a rectangle.
+- [UserInput.java](./UserInput.java) - User input with `Scanner` that handles different types of variables (refer from the previous java file) and calculating the area of a rectangle.
+- [MadLibsGame.java](./MadLibsGame.java) - Another use for `Scanner` where user inputs noun, verbs and adjective and the output will be funny, unexpected, or perhaps nonsense.
 - Soon to add... (I hope it's daily)
 
 ## References

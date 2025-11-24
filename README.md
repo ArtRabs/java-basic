@@ -10,6 +10,7 @@ This contains simple Java programs to practice fundamental concepts.
 - [ArithmeticOperators.java](./ArithmeticOperators.java) - This shows how to use arithmetic operators in way of the math, it uses +, -, *, /, and %. The last one is modulus not percentage, it also showcases how PEMDAS works (Parenthesis - Exponent - Multiplication - Division - Addition - Subtraction)
 - [ShoppingCartProgram.java](./ShoppingCartProgram.java) - This is basic shopping cart program. User input of item to buy, and price and quantity of the item by using `Scanner`.
 - [IfStatments.java](./IfStatements.java) - Ask you of your name, age and student status, ofcourse you don't need to put your real information. It shows output of your status related to the user input. There's also emoji in output, but it might not show in your output if not compatible or UTF-8 encoding.
+- [RandomNumbers.java](./RandomNumbers.java) - It is random generator of between x and y numbers. Can also be used to random a boolean outputs.
 - Soon to add... (I hope it's daily)
 
 ## References

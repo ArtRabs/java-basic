@@ -8,7 +8,25 @@ public class ShoppingCartProgram {
         
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Hello! Welcome to the shopping cart program.");
+        String item;
+        double price;
+        int quantity;
+        char currency = '$';
+        double total;
+
+        System.out.print("What item would you like to buy?: ");
+        item = scanner.nextLine();
+
+        System.out.print("What is the price for each?: ");
+        price = scanner.nextDouble();
+
+        System.out.print("How many would you like?: ");
+        quantity = scanner.nextInt();
+
+        total = price * quantity;
+
+        System.out.println("\nYou have bought " + quantity + " " + item + "/s for " + currency + price);
+        System.out.println("Your total is " + currency + total);
 
         scanner.close();
 

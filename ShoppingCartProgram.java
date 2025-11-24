@@ -8,12 +8,7 @@ public class ShoppingCartProgram {
         
         Scanner scanner = new Scanner(System.in);
 
-        int userinput = 0;
-
-        System.out.print("Enter a number: ");
-        userinput = scanner.nextInt();
-
-        System.out.println(userinput);
+        System.out.println("Hello! Welcome to the shopping cart program.");
 
         scanner.close();
 

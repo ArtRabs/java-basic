@@ -13,6 +13,8 @@ This contains simple Java programs to practice fundamental concepts.
 - [RandomNumbers.java](./RandomNumbers.java) - It is random generator of between x and y numbers. Can also be used to random a boolean outputs.
 - [MathClass.java](./MathClass.java) - Demonstrates common `Math` functions such as `Math.pow()` for exponents and `Math.sqrt()` for square roots. It applies these functions to solve practical problems like calculating the area of a rectangle and the circumference of a circle.
 - [PrintfFormatting.java](./PrintfFormatting.java) - The `printf()` is used to format an output. It covers specifiers for different kind of variables such as strings, characters, integers, doubles and booleans. It also have flags, width, precision and padding options. Seeing is believing so just click the link `PrintfFormatting.java` in this section of note to redirect you to a bunch of examples.
+- [CompoundInterestCalculator.java](./CompoundInterestCalculator.java) - Calculates compound interest based on user input for principal, annual rate, compounding frequency, and number of years. Demonstrates the use of `Math.pow()` to apply the compound interest formula and outputs the final amount. If you are doing finance of some sort, perhaps this will do (no it's not).
+
 
 - Soon to add... (I hope it's daily)
 

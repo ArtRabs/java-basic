@@ -11,6 +11,8 @@ This contains simple Java programs to practice fundamental concepts.
 - [ShoppingCartProgram.java](./ShoppingCartProgram.java) - This is basic shopping cart program. User input of item to buy, and price and quantity of the item by using `Scanner`.
 - [IfStatments.java](./IfStatements.java) - Ask you of your name, age and student status, ofcourse you don't need to put your real information. It shows output of your status related to the user input. There's also emoji in output, but it might not show in your output if not compatible or UTF-8 encoding.
 - [RandomNumbers.java](./RandomNumbers.java) - It is random generator of between x and y numbers. Can also be used to random a boolean outputs.
+- [MathClass.java](./MathClass.java) - Demonstrates common `Math` functions such as `Math.pow()` for exponents and `Math.sqrt()` for square roots. It applies these functions to solve practical problems like calculating the area of a rectangle and the circumference of a circle.
+
 - Soon to add... (I hope it's daily)
 
 ## References
